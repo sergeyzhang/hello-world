@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\demo-1.0.0-Source\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\demo-1.0.0-Source\src\data_collector\ConcreteActivities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\demo-1.0.0-Source\src\data_collector\ConcreteActivityRecognition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\demo-1.0.0-Source\src\data_collector\ConcreteDeviceInformation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\demo-1.0.0-Source\src\data_collector\ConcreteSystemInformation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\demo-1.0.0-Source\src\data_collector\DataCollector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\demo-1.0.0-Source\src\data_collector\TaskPool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\demo-1.0.0-Source\src\data_collector\CpuInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\demo-1.0.0-Source\src\data_transmitter\DataTransmitter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\demo-1.0.0-Source\src\utils\Client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\demo-1.0.0-Source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\demo-1.0.0-Source\include\data_collector" />
+    <None Include="E:\demo-1.0.0-Source\include\data_transmitter" />
+    <None Include="E:\demo-1.0.0-Source\include\utils" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{015C474F-92D2-3D32-AC1F-26B2130642F0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

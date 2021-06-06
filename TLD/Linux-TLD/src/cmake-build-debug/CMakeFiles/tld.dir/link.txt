@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xian/workspace/TLD/lib/libtld.a  CMakeFiles/tld.dir/TLD.cpp.o
+/usr/bin/ranlib /home/xian/workspace/TLD/lib/libtld.a

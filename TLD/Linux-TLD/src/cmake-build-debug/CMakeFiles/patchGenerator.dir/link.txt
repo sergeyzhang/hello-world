@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xian/workspace/TLD/lib/libpatchGenerator.a  CMakeFiles/patchGenerator.dir/PatchGenerator.cpp.o
+/usr/bin/ranlib /home/xian/workspace/TLD/lib/libpatchGenerator.a

@@ -1,0 +1,8 @@
+/home/xian/workspace/TLD/src/cmake-build-debug/CMakeFiles/LKTracker.dir
+/home/xian/workspace/TLD/src/cmake-build-debug/CMakeFiles/tld_utils.dir
+/home/xian/workspace/TLD/src/cmake-build-debug/CMakeFiles/patchGenerator.dir
+/home/xian/workspace/TLD/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xian/workspace/TLD/src/cmake-build-debug/CMakeFiles/ferNN.dir
+/home/xian/workspace/TLD/src/cmake-build-debug/CMakeFiles/tld.dir
+/home/xian/workspace/TLD/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xian/workspace/TLD/src/cmake-build-debug/CMakeFiles/run_tld.dir
